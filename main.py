@@ -15,6 +15,7 @@ def print_hi(name):
 
     # print(id_generator())
     print(f'buy, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Марк знает многое..., {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 #Govnocodit
