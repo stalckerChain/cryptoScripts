@@ -11,8 +11,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(id_generator())
 
-def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
-    return ''.join(random.choice(chars) for _ in range(size))
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
