@@ -14,6 +14,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
     # print(id_generator())
+    print(f'buy, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
 
 
 
