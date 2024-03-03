@@ -9,10 +9,13 @@ import random
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print(id_generator())
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
-def id_generator(size=6, chars=string.ascii_uppercase + string.digits):
-    return ''.join(random.choice(chars) for _ in range(size))
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+    # print(id_generator())
+
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
