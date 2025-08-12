@@ -21,6 +21,12 @@ def print_hi(name):
 
     # print(id_generator())
 
+def print_hidd(name):
+    print(f'Hi here!!!, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+    # print(id_generator())
 
 
 # Press the green button in the gutter to run the script.
