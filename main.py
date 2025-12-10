@@ -40,10 +40,6 @@ def print_hidd(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm')
-
-if __name__ == '__main__':
-    print_hi('PyCharm')
-    print_hi('PyCharm')
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('PyCharm')
