@@ -35,9 +35,6 @@ def print_hidd(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
     # print(id_generator())
-if __name__ == '__main__':
-    print_hi('PyCharm')
-    print_hi('PyCharm')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
